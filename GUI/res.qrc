@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/left.png</file>
+    <file>images/load.gif</file>
+    <file>images/loading.gif</file>
+    <file>images/loading.jpg</file>
+    <file>images/play.png</file>
+    <file>images/right.png</file>
+    <file>images/rect.png</file>
+    <file>images/stop.png</file>
+    <file>images/close.png</file>
+    <file>images/edit.png</file>
+    <file>images/fileopen.png</file>
+    <file>images/left.png</file>
+    <file>images/search.png</file>
+    <file>images/user.png</file>
+  </qresource>
+</RCC>
